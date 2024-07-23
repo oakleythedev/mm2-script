@@ -77,7 +77,7 @@ local TopFrame = Instance.new("Frame")
 local Title_17 = Instance.new("TextLabel")
 local MinimizeButton = Instance.new("TextButton")
 
-MM2AdminPanel.Name = "MM2AdminPanel"
+MM2AdminPanel.Name = "MM2 Panel"
 MM2AdminPanel.Parent = game.CoreGui
 MM2AdminPanel.ResetOnSpawn = false
 
